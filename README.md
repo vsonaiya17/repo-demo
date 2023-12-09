@@ -1,2 +1,3 @@
 # repo-demo
-This is my first repository demo
+This is my first git repository demo.
+Author - varsha sonaiya
